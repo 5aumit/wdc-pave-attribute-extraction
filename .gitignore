@@ -1,0 +1,12 @@
+# Model weights, checkpoints, and generated predictions
+qwen3-lora-*/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+Finetune-WDC-PAVE.ipynb
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
